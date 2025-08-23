@@ -19,6 +19,11 @@ Exploratory data analysis of fuel prices in Brazil between 2019 and 2024 using A
 
 ---
 
+### [Absenteism at work](https://github.com/helena-balbino/absentismo_at_work.git)  
+This project analyzes workplace absenteeism using the public Absenteeism at Work (UCI) dataset. A Multiclass Logistic Regression model was applied, with preprocessing and class balancing via SMOTE, achieving relevant performance improvements on minority classes.
+
+---
+
 ### Coffee Bean Defect Detection with VAE *(coming soon)*  
 Application of variational autoencoders for anomaly detection in coffee bean images, aiming to support quality control processes in the food industry.
 
