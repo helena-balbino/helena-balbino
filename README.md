@@ -24,7 +24,7 @@ This project analyzes workplace absenteeism using the public Absenteeism at Work
 
 ---
 
-### [Banckruptcy]((https://github.com/helena-balbino/bankruptcy.git))  
+### [Banckruptcy](https://github.com/helena-balbino/bankruptcy.git)  
 This project analyzes workplace absenteeism using the public Absenteeism at Work (UCI) dataset. A Multiclass Logistic Regression model was applied, with preprocessing and class balancing via SMOTE, achieving relevant performance improvements on minority classes.
 
 ---
