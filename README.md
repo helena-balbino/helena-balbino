@@ -1,54 +1,61 @@
-# Hi there 👋  
-## I'm Helena Balbino
+## Hi, I’m Helena Balbino 👋  
 
-With over **15 years of experience in accounting**, I have spent years managing administrative processes, conducting tax reviews, and implementing routines that optimized internal workflows and ensured regulatory compliance for companies of various sizes. Throughout my career, I have developed analytical and problem-solving skills that now serve as the foundation for my work in Data Science, combining business knowledge with the ability to interpret and transform information into strategic decisions.
+I’m an **Accountant and Business Analytics professional** with over 12 years of experience in financial reporting, tax compliance, and administrative processes, currently specializing in **Data Analytics and Machine Learning applied to real-world business problems**.
 
-I am currently pursuing a **Postgraduate Specialization in Machine Learning and Big Data**, deepening my knowledge in processing and analyzing large datasets, developing machine learning models, and applying artificial intelligence techniques. I have been working on solutions ranging from exploratory data analysis to predictive modeling and anomaly detection approaches, always focusing on practical application and delivering measurable results. This training complements my professional experience in accounting and administration, enhancing my ability to transform data into relevant information to support strategic decision-making.
+My background in accounting provides a strong understanding of business operations, regulatory environments, and financial data. Combined with analytics and machine learning, I focus on transforming complex datasets into actionable insights that support strategic and data-driven decision-making.
 
----
-
-## 📂 Public Projects
-
-### [Churn Prediction - Telecom](https://github.com/helena-balbino/x_telecom_part2)  
-Predictive model to identify customers with a high likelihood of canceling their services in the telecommunications sector. The project includes data preprocessing, feature selection, and model evaluation to improve retention strategies.
+I am currently pursuing a **Master of Science in Machine Learning and Big Data**, with hands-on experience in exploratory data analysis, predictive modeling, and anomaly detection, always prioritizing practical application and measurable results.
 
 ---
 
-### [Fuel Market Exploration - Brazil](https://github.com/helena-balbino/fuel-market-exploration-brazil)  
-Exploratory data analysis of fuel prices in Brazil between 2019 and 2024 using ANP public data. The project focuses on identifying trends, price variations across regions, and factors influencing the fuel market.
+## 🔍 Core Expertise
+- Financial Reporting & Tax Compliance  
+- Business Analytics & Data-Driven Decision Making  
+- Exploratory Data Analysis (EDA)  
+- Predictive Modeling & Machine Learning  
+- Python, SQL, Pandas, Scikit-learn  
 
 ---
 
-### [Absenteism at work](https://github.com/helena-balbino/absentismo_at_work.git)  
-This project analyzes workplace absenteeism using the public Absenteeism at Work (UCI) dataset. A Multiclass Logistic Regression model was applied, with preprocessing and class balancing via SMOTE, achieving relevant performance improvements on minority classes.
+## 📂 Selected Projects
+
+### [Churn Prediction – Telecom](https://github.com/helena-balbino/x_telecom_part2)
+Predictive modeling project to identify customers with a high likelihood of churn in the telecommunications sector. The solution supports customer retention strategies through data preprocessing, feature engineering, and model evaluation.
 
 ---
 
-### [Banckruptcy](https://github.com/helena-balbino/bankruptcy.git)  
-This project analyzes workplace absenteeism using the public Absenteeism at Work (UCI) dataset. A Multiclass Logistic Regression model was applied, with preprocessing and class balancing via SMOTE, achieving relevant performance improvements on minority classes.
+### [Fuel Market Exploration – Brazil](https://github.com/helena-balbino/fuel-market-exploration-brazil)
+Exploratory data analysis of fuel prices in Brazil (2019–2024) using public ANP data. The project highlights regional price variations, market trends, and factors influencing fuel pricing dynamics.
 
 ---
 
-### Coffee Bean Defect Detection *(coming soon)*  
-Application of autoencoders for anomaly detection in coffee bean images, aiming to support quality control processes in the food industry.
+### [Absenteeism at Work](https://github.com/helena-balbino/absentismo_at_work)
+Analysis of workplace absenteeism using the UCI dataset. A multiclass logistic regression model was developed with data preprocessing and class balancing using SMOTE, improving performance on minority classes.
 
 ---
 
-## 🛠 Tools
+### [Bankruptcy Prediction](https://github.com/helena-balbino/bankruptcy)
+Predictive analysis focused on identifying financial distress patterns using structured financial indicators, supporting risk assessment and decision-making processes.
+
+---
+
+### [Coffee Bean Anomaly Detection using Variational Autoencoder (VAE)](https://github.com/helena-balbino/coffee-bean-anomaly-detection-vae)
+Unsupervised anomaly detection in coffee bean images using a Variational Autoencoder (VAE), trained exclusively on healthy samples to identify defective beans through reconstruction error. The project supports automated quality control in food and agribusiness inspection scenarios.
+
+---
+
+## 🛠 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099cc?style=flat-square&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099cc?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
-## 🌐 Social 
 
-You can find me on the following platforms or send me an email:
-
-- 👤 [LinkedIn](https://linkedin.com/in/helena-balbino)
-- ✉️ [Email](mailto:helenabalbino1@gmail.com)
+## 🌐 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/helena-balbino  
+- ✉️ Email: helenabalbino1@gmail.com  
