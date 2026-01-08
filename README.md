@@ -1,3 +1,5 @@
+![Accounting. Analytics. Strategy.](assets/banner.png)
+
 ## Hi, I’m Helena Balbino 👋  
 
 I’m an **Accountant and Business Analytics professional** with over 12 years of experience in financial reporting, tax compliance, and administrative processes, currently specializing in **Data Analytics and Machine Learning applied to real-world business problems**.
